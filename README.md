@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvanCui
 - 👀 I’m interested in algorithm, C# and a various of technologies.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Gen AI.
 - 💞️ I’m looking to collaborate on projects which is truely useful.
 - 📫 How to reach me: leave some comment there.
 
